@@ -26,6 +26,5 @@ Para mim, testar é **pensar** — sobre contexto, risco e valor entregue.
 
 📫 **Contato:** [willianfabricio3@gmail.com](mailto:willianfabricio3@gmail.com)  
 🔗 **LinkedIn:** [Fabrício Willian](https://www.linkedin.com/in/fabr%C3%ADcio-william-345618355/)  
-💻 **GitHub:** [@FabricioWillian]([https://github.com/seu-usuario](https://github.com/willianfabricio3-png))
 
 ---
