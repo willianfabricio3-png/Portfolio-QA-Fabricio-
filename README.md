@@ -1,4 +1,4 @@
-# 🧩 Portifólio QA — Fabrício Willia,
+# 🧩 Portifólio QA — Fabrício William
 
 Bem-vindo ao meu portfólio de **Qualidade de Software (QA)**!  
 Aqui estão meus estudos, práticas e reflexões sobre o pensamento crítico por trás dos testes de software — do **Sylabus ISTQB** até as **ferramentas de automação** como Cypress e Postman.
