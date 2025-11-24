@@ -16,7 +16,7 @@ Aqui aplico conceitos fundamentais da linguagem voltados para testes, automaçã
 * **🔹 2. Convertendo BDD para JavaScript**
     * Transformação de cenários Gherkin em código JavaScript.
     * Criação de funções que representam passos de comportamento.
-    * Exercícios imaginando jogos e mini-aplicações para fixação dos conceitos.
+      
 
 * **🔹 3. Entendendo padrões modernos de desenvolvimento**
     * Por que frameworks como Vue.js evitam usar `id`.
