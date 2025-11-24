@@ -14,7 +14,7 @@ A ideia é mostrar **como penso como QA**, e não apenas o que sei.
 | :---: | :--- | :--- |
 | **01** | [🧠 Sylabus](./1-Sylabus/README.md) | A base do raciocínio de QA — entender propósito, risco e valor. |
 | **02** | [🌀 Scrum](./2-Scrum/README.md) | Como o QA atua dentro de um time ágil para garantir entregas contínuas de qualidade. |
-| **03** | [💻 JavaScript para QAs](./3-Javascript/README.md) | Automação, objetos, BDD e comunicação técnica. |
+| **03** | [💻 JavaScript para QAs](./3-JavaScript-para-QAs/README.md) | Automação, objetos, BDD e comunicação técnica. |
 
 ---
 
