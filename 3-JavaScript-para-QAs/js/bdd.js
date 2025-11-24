@@ -39,10 +39,10 @@ Quando faço um saque de 1001 reais
 Então não deve deduzir o saldo e deve mostrar uma mensagem de alerta informando que o valor não é permitido  */
 
 /* Cenário 3: Saque com valor máximo 
-dado que meu saldo de 1000 
+Dado que meu saldo é de 1000 
 e meu valor máximo é de 700 (Confirmado pelo PO com o cliente) 
-quando faço um valor máximo de 701 reais 
-então não deve deduzir do meu saldo 
+Quando faço um valor máximo de 701 reais 
+Então não deve deduzir do meu saldo 
 E deve mostrar uma mensagem de alerata informando que o valor é superior ao maximo permitido 
   */
 
